@@ -1,0 +1,12 @@
+C:\Users\Дмитрий\Desktop\программирование\Проекты\GitHub\Sharp\SharpESender\ESender\bin\Debug\ESender.exe.config
+C:\Users\Дмитрий\Desktop\программирование\Проекты\GitHub\Sharp\SharpESender\ESender\bin\Debug\ESender.exe
+C:\Users\Дмитрий\Desktop\программирование\Проекты\GitHub\Sharp\SharpESender\ESender\bin\Debug\ESender.pdb
+C:\Users\Дмитрий\Desktop\программирование\Проекты\GitHub\Sharp\SharpESender\ESender\obj\Debug\ESender.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\программирование\Проекты\GitHub\Sharp\SharpESender\ESender\obj\Debug\ESender.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\программирование\Проекты\GitHub\Sharp\SharpESender\ESender\obj\Debug\ESender.exe
+C:\Users\Дмитрий\Desktop\программирование\Проекты\GitHub\Sharp\SharpESender\ESender\obj\Debug\ESender.pdb
+C:\Users\Дмитрий\Desktop\программирование\Проекты\GitHub\Sharp\SharpESender\ESender\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Дмитрий\Desktop\программирование\Проекты\GitHub\Sharp\SharpESender\ESender\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Дмитрий\Desktop\программирование\Проекты\GitHub\Sharp\SharpESender\ESender\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Дмитрий\Desktop\программирование\Проекты\GitHub\Sharp\SharpESender\ESender\bin\Debug\WebDriver.dll
+C:\Users\Дмитрий\Desktop\программирование\Проекты\GitHub\Sharp\SharpESender\ESender\bin\Debug\WebDriver.xml
