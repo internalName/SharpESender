@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ESender
 {
-    class ValueOfList
+    public class ValueOfList
     {
         private OptIn _optInList = default(OptIn);
         private string _name = default(String);

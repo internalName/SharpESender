@@ -53,6 +53,7 @@
     <Compile Include="ManagerOfNetworking.cs" />
     <Compile Include="OptIn.cs" />
     <Compile Include="Parser.cs" />
+    <Compile Include="Printer.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ValueOfList.cs" />

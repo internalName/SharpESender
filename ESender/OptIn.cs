@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ESender
 {
-    enum OptIn
+    public enum OptIn
     {
         SingleOptIn,
         DoubleOptIn
